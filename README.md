@@ -13,7 +13,3 @@
 **Results:** Achieved an R-squared value of 0.9 and a mean absolute error of 1.9, indicating high accuracy. For example, for a house priced at $24,000, the model predicted $23,000.
 
 **Impact:** Helps in making informed decisions regarding buying, selling, or renting properties based on accurate price predictions.
-
-**Roles and Responsibilities:** Managed the entire project lifecycle, from data
-preprocessing to model training and evaluation, ensuring high accuracy and practical
-utility.
